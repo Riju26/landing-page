@@ -1,0 +1,175 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300&display=swap');
+
+
+
+.hero-section{
+
+    background-image: url(./hero-img.jpeg);
+    width: 100%;
+    
+}
+.title-img{
+    width: 200px;
+}
+.nav-link{
+    font-size: 12px;
+    color: black;
+    font-weight: 500;
+}
+.navbar-brand{
+    font-weight:600;
+    letter-spacing: 2px;
+}
+
+.collection-section{
+    font-family: 'Frank Ruhl Libre', serif;
+
+
+}
+.collection-section p{
+    font-size: 12px;
+    font-weight: 600;
+}
+.card img{
+    height: 270px;
+}
+.card-title{
+    margin-top: 210px;
+  
+}
+.title-heading{
+    font-family: 'Frank Ruhl Libre', serif;
+    font-weight: 900;
+  
+}
+
+
+/* <!-- best fassion section start  --> */
+.fassion-section{
+    font-family: 'Frank Ruhl Libre', serif;
+    margin-top: 100px;
+}
+.fassion-section img {
+    height: 400px;
+}
+.fashion-content p{
+    font-size: 12px;
+    font-weight: 600;
+
+}
+.fashion-content h2{
+    font-weight:900;
+    
+}
+/* <!-- best fassion section end --> */
+
+
+    .over-vew {
+        background-color: #D2B79E;
+    }
+    .over-vew{
+        width: 400px;
+        height: 70px;
+    }
+    .over-vew p {
+        margin-top: -10px;
+    }
+    .Border{
+        border-right: 1px solid black;
+        height: 41px;
+        margin-right: -7px;
+   
+    }
+    .coundawn-section{
+        position: absolute;
+        left: 340px;
+        top: 240px;
+    }
+    .fassion-section{
+        position: relative;
+        
+    }
+    /* best selling products section start */
+    .best-seller{
+        background-color: #2C1915;
+        color: white;
+        width: 1024px;
+        font-family: 'Frank Ruhl Libre', serif;
+
+    }
+  .best-seller-left{
+    width: 422px;
+  }
+  .right-img{
+    width: 550px;
+    /* margin-right: 30px; */
+  }
+  .card-img{
+    height: 168px;
+  }
+  .best-seller-left p{
+        font-size: 13px;
+        
+  }
+
+/* best selling products section end */
+
+    /* footer section start  */
+.branImageItem{
+    width: 200px;
+    margin-top: 30px;
+    padding: 0px;
+    }
+
+    .footer-content{
+        background-color: #412F28;
+
+    }
+    .footer-section{
+        position: relative;
+    }
+    .Btn{
+        background-color: #AC8E8E;
+        position: absolute;
+        top: 227px;
+        left: 362px;
+    }
+    .footer-Btn{
+        margin: -44px;
+        
+        width: 140px;
+        font-size: 11px;
+        color: white;
+    }
+    .footer-content p{
+        font-size: 12px;
+        
+    }
+ /* footer section end  */
+
+ /* our products section start */
+.hot::after{
+    content : "HOT";
+border-bottom: 1px solid black;
+}
+.products-img {
+    width:150px;
+    padding: 0;
+    
+
+}
+.img-fluid{
+    margin-left: 0px;
+    width: 100%;
+}
+.products-img p{
+    font-size: 12px;
+    margin: 0;
+}
+.text-secondary{
+    text-decoration-line: line-through;
+}
+
+
+ /* our products section end */
